@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RouteAssignment</string>
+    <string name="facebook">فيسبوك</string>
+    <string name="email_or_phone">البريد الالكتروني او رقم الهاتف</string>
+    <string name="password">كلمة المرور</string>
+    <string name="log_in">تسجيل دخول</string>
+    <string name="sign_up">افتح حساب</string>
+    <string name="help_center">مركز المساعدة</string>
+    <string name="unblast">انبليست</string>
+    <string name="post">منشور</string>
+    <string name="hyperlink">رابط</string>
+</resources>
